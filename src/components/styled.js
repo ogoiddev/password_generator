@@ -54,6 +54,7 @@ export const Form = styled.form`
     flex: 1;
     justify-content: space-between;
     margin: 5px;
+    max-height: 55px;
     width: 100%;
 
     span {
