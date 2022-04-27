@@ -28,6 +28,7 @@ const Container = styled.div`
     width: 85%;
     height: 65px;
     line-height: 65px;
+    overflow-x: auto;
     
   }
 
